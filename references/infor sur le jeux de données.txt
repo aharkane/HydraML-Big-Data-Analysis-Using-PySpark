@@ -1,0 +1,15 @@
+Assainissement - Stations d'épuration : Suivi de la qualité des eaux traitées Autosurveillance
+
+
+
+
+Description
+Les données diffusées ici sont issues des mesures effectuées régulièrement dans le cadre de l'autosurveillance des ouvrages d'assainissement.
+
+L’autosurveillance est la surveillance du fonctionnement des ouvrages d’assainissement dépendant des collectivités locales : station d’épuration et réseau de collecte. Cette surveillance est réalisée sous la responsabilité du maître d’ouvrage.
+
+L’autosurveillance des systèmes d’assainissement collectifs est réglementée par l’arrêté du 21 juillet 2015 qui remplace l’arrêté du 22 juin 2007. Il est complété par la note technique du 7 septembre 2015, qui concerne l’autosurveillance des ouvrages de rejet du système de collecte.
+
+Les points d’autosurveillance réglementaires (A) de chaque système d’assainissement sont précisés dans des scénarios diffusés par le SANDRE (station d’épuration et réseau de collecte). Les points non réglementaires sont des points logiques (S pour la station d’épuration et R pour le réseau d’assainissement).
+
+Les scenarii SANDRE sont des documents spécifiques qui formalisent les échanges de données (nature, fréquence de transmission) entre les maîtres d’ouvrages et les acteurs de l’eau. Le format SANDRE permet d’avoir une codification unique et un langage commun entre les acteurs.
